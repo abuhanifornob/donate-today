@@ -57,7 +57,7 @@ body {
     margin-bottom: 30px;
 }
 
-.doner-form a {
+.donate-button {
     margin: 0 auto;
     text-align: center;
     text-decoration: none;
@@ -83,4 +83,52 @@ body {
     padding: 1.5%;
     margin: 1%;
     border-radius: 20px;
+}
+
+.contribute-content {
+    width: 35%;
+    padding: 5% 7%;
+}
+
+.contribute-image {
+    width: 35%;
+    padding: 5% 7%;
+}
+
+.contribute-image img {
+    border-radius: 20px;
+}
+
+.update-area {
+    text-align: center;
+    width: 50%;
+    margin: 0 auto;
+}
+
+.update-form {
+    padding: 5%;
+    background-color: bisque;
+}
+
+.subscribe-btn {
+    text-align: center;
+    text-decoration: none;
+    background-color: tomato;
+    padding: 10px 20px;
+    border-radius: 0 10px 10px 0;
+    margin-left: -5px;
+    font-size: 20px;
+}
+
+.update-form input {
+    padding: 11px 20px;
+    background-color: powderblue;
+    border: none;
+    font-size: 20px;
+    border-radius: 10px 0 0 10px;
+}
+
+.foote {
+    background-color: black;
+    color: wheat;
 }
