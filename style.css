@@ -1,0 +1,86 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+
+.header-section {
+    background-image: url(images/donation0.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 700px;
+    background-image: linear-gradient(360deg, #121212);
+}
+
+.header-content {
+    text-align: center;
+    padding: 10%;
+    width: 50%;
+    margin: 0 auto;
+}
+
+.header-content h1 {
+    color: wheat;
+    font-size: 50px;
+}
+
+.donate-content {
+    text-align: center;
+    width: 50%;
+    margin: 0 auto;
+}
+
+.donate-amount {
+    display: flex;
+    margin: 0 auto;
+    width: 50%;
+    margin-bottom: 20px;
+}
+
+.donate-amount h2 {
+    padding: 30px 30px;
+}
+
+.doner-form {
+    margin: 0 auto;
+    width: 50%;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.doner-form input {
+    display: block;
+    margin: 0 auto;
+    padding: 10px;
+    width: 100%;
+    text-align: center;
+    border-bottom: 1px solid wheat;
+    margin-bottom: 30px;
+}
+
+.doner-form a {
+    margin: 0 auto;
+    text-align: center;
+    text-decoration: none;
+    background-color: tomato;
+    padding: 10px 20px;
+    border-radius: 10px;
+}
+
+.donate-plan-content {
+    text-align: center;
+    width: 50%;
+    margin: 0 auto;
+}
+
+.flexabel-section {
+    display: flex;
+    margin: 50px 50px;
+}
+
+.donate-area {
+    background-color: aquamarine;
+    width: 30%;
+    padding: 1.5%;
+    margin: 1%;
+    border-radius: 20px;
+}
